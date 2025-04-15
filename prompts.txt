@@ -1,0 +1,26 @@
+# prompts.txt
+
+This project was developed with the assistance of ChatGPT by OpenAI to help speed up development and improve code quality.
+
+Below are the prompts used during the development process:
+
+---
+
+1. "Integration Assignment: Bidirectional ClickHouse & Flat File Data Ingestion Tool - explain and guide me to implement this in Java using Spring Boot."
+2. "How to connect to ClickHouse using JWT authentication in Java?"
+3. "How to read and write CSV files using OpenCSV in Spring Boot?"
+4. "How to build a responsive UI using Bootstrap 5 for Spring Boot app?"
+5. "Write a Spring Boot controller to handle file uploads."
+6. "Create a service class in Spring Boot to export data from ClickHouse to CSV."
+7. "How to display column selection checkboxes dynamically in HTML using Thymeleaf?"
+8. "Implement a progress bar in a web app using JavaScript and Bootstrap."
+9. "Spring Boot application structure for ingestion tool – how to organize controllers, services, and models?"
+10. "Write a professional README.md for a Java-based ClickHouse–CSV ingestion tool."
+11. "Create a prompts.txt file for submission with AI prompts used in the project."
+12. "Explain how to handle errors and exceptions in Spring Boot for file uploads."
+13. "Create a simple UI with Bootstrap to show progress during data ingestion."
+14. "How to use Thymeleaf in Spring Boot to dynamically load tables and columns from a database?"
+
+---
+
+The AI was used to guide implementation, generate sample code, write documentation, and debug errors.
