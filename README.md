@@ -132,6 +132,24 @@ mvn test
 4. Push to the branch
 5. Create a Pull Request
 
+   ---
+
+## AI Tool Usage
+
+This project was developed with the assistance of an AI tool (ChatGPT by OpenAI) to accelerate development and improve code quality.
+
+A full list of prompts used during the development process is included in the [`prompts.txt`](./prompts.txt) file located at the root of this repository, as required by the assignment.
+
+The AI assistance was used for:
+- Designing project structure
+- Implementing service and controller layers
+- Handling ClickHouse JWT authentication
+- Working with CSV file parsing and writing
+- Building the responsive frontend (Bootstrap 5)
+- Writing this README.md and other documentation
+
+
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
