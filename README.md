@@ -149,7 +149,3 @@ The AI assistance was used for:
 - Writing this README.md and other documentation
 
 
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
